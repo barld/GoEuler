@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(problems.GetAnswer())
+	fmt.Println(problems.GetAnswer2())
 }
